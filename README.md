@@ -1,8 +1,6 @@
-https://github.com/ameureka/marketing-agency-ai/blob/main/pic/agent_review.png
+![Agent Review](https://github.com/ameureka/marketing-agency-ai/blob/main/pic/agent_review.png)
 
-
-
-https://github.com/ameureka/marketing-agency-ai/blob/main/pic/agent_review2.png
+![Agent Review 2](https://github.com/ameureka/marketing-agency-ai/blob/main/pic/agent_review2.png)
 
 # 营销代理智能体
 
